@@ -46,7 +46,7 @@ Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza co
 
 #### Video de publicidad
 Producción de un video publicitario para apoyar la participación de una candidata del pueblo de San Pedro Tlalcuapan, destacando su mensaje, valores y compromiso comunitario mediante una presentación visual clara, dinámica y de alta calidad.
-[texto del enlace](URL_de_Drive)
+[Video de publicitario](https://drive.google.com/file/d/1bUjf8d56WI4bLkxHb2pucDJQw03tZCn1/view?usp=sharing)
 
 ---
 
