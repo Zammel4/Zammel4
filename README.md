@@ -33,15 +33,22 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.
 
 #### Targeta de Presentación
+
 <div align="center">
+ 
   <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
+  
 </div>
 Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.
 
 #### Logotipo
+
 <div align="center">
+ 
   <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
+  
 </div>
+
 Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.
 
 ---
@@ -58,21 +65,27 @@ Producción de un video publicitario para apoyar la participación de una candid
 
 ### 📈 Experiencia Previa
 
-> **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
+**La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 
-* **Desarrollo de proyectos de Realidad Aumentada para ferias.** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
-    *
+ **Desarrollo de proyectos de Realidad Aumentada para ferias.**
+ 
+ [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
+    
   *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
-    * **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
+  
+     **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
 
-* **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
+ **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano).**
+
+  [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/1F5icl04-nX8J9Nm6LDct2vuFnTO01c2-?usp=sharing)
+  
     * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
+    
     * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
 
-* **Creación de video juego 2D pixel art (Video juego tematica de terror).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
-    * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
-    * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
-
+* **Creación de videojuego 2D Pixel Art (Videojuego temática de terror).** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/15qub2vW7HdZ0e2IdX8vwLRxoz_UTT9f8?usp=sharing)
+    * *Narración:* Se desarrolló un **videojuego 2D de Pixel Art con temática de terror**, enfocado en ofrecer una experiencia inmersiva a través de su estética visual y narrativa.
+    * **Mi Contribución:** Fui responsable del **diseño de personajes 2D en estilo Pixel Art** desde cero, además de contribuir en la creación de los entornos y elementos visuales clave para establecer la atmósfera de terror.
 ---
 
 ### 🎓 Educación y Certificaciones
@@ -89,7 +102,7 @@ Producción de un video publicitario para apoyar la participación de una candid
 ## 📥 Descargar CV Completo
 
 <div align="center">
-  [![Descargar CV](https://img.shields.io/badge/Descargar_CV-PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=sharing)
+  [Descargar mi CV](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=drive_link)
 </div>
 
 ---
