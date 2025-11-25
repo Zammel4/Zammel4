@@ -58,11 +58,11 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 ### 🎓 Educación y Certificaciones
 
 * **Título:** Técnico Superior en **Entornos Virtuales y Negocios Digitales**
-    > *Universidad Tecnológica de Tlaxcala*
+> * Universidad Tecnológica de Tlaxcala
 
 * **Certificaciones:**
-    >* Toma de decisiones basadas en datos: **Power BI** Santander X.
-    >* CertiProf, **Scrum Foundation Professional Certificate** SFPC.
+> * Toma de decisiones basadas en datos: **Power BI** Santander X.
+> * CertiProf, **Scrum Foundation Professional Certificate** SFPC.
 
 ---
 
