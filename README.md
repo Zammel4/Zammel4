@@ -72,6 +72,14 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 ---
 
+## 📥 Descargar CV Completo
+
+<div align="center">
+  [![Descargar CV](https://img.shields.io/badge/Descargar_CV-PDF-blue?style=for-the-badge&logo=googledrive)](TU_LINK_DE_DRIVE_O_REPOSITORIO_AL_PDF_AQUI)
+</div>
+
+---
+
 ### 📧 Contacto
 
 * **Correo:** [melendezzam4@gmail.com](mailto:melendezzam4@gmail.com)
