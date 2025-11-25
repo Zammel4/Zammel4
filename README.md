@@ -66,24 +66,5 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 ---
 
-### 📧 Contacto
 
-* **Correo:** [melendezzam4@gmail.com](mailto:melendezzam4@gmail.com)
-* **LinkedIn:** [Tu enlace a LinkedIn aquí] (Recomendado)
-* **Idioma:** Inglés básico (A2)
 
----
-
-### ✅ Verificación de Rutas:
-
-* **Flyer:** `1000088474.png`
-* **Tarjeta:** `Targeta_de_presentación.png`
-* **Logo:** `Logo_tacos..png`
-
-**Recuerda:** Si las imágenes no aparecen o el tamaño no es el deseado, puedes:
-
-1.  **Ajustar `width="300"`:** Cambia el número (`300`) a un valor más pequeño o más grande según tu preferencia.
-2.  **Borrar caché:** Presiona `Ctrl + Shift + R` (o `Cmd + Shift + R` en Mac) para forzar la recarga de la página.
-
-¡Ahora tus imágenes deberían verse centradas y escaladas en tu perfil de GitHub!
-```http://googleusercontent.com/image_generation_content/1
