@@ -30,7 +30,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 <div align="center">
   <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
 </div>
-*Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
+*Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
 <div align="center">
@@ -42,7 +42,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 <div align="center">
   <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
 </div>
-*Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
+*Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.*
 
 ---
 
