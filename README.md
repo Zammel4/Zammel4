@@ -27,15 +27,21 @@
 Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
 
 #### Flyer
-<img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
+<div align="center">
+  <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
+</div>
 *Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
-<img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
+<div align="center">
+  <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
+</div>
 *Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
 
 #### Logotipo
-<img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
+<div align="center">
+  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
+</div>
 *Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
 
 ---
@@ -79,4 +85,5 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 1.  **Ajustar `width="300"`:** Cambia el número (`300`) a un valor más pequeño o más grande según tu preferencia.
 2.  **Borrar caché:** Presiona `Ctrl + Shift + R` (o `Cmd + Shift + R` en Mac) para forzar la recarga de la página.
 
-¡Ahora tus imágenes deberían verse perfectamente escaladas en tu perfil de GitHub!http://googleusercontent.com/image_generation_content/0
+¡Ahora tus imágenes deberían verse centradas y escaladas en tu perfil de GitHub!
+```http://googleusercontent.com/image_generation_content/1
