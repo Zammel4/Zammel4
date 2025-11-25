@@ -27,15 +27,15 @@
 Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
 
 #### Flyer
-![Flyer de Ejemplo](1000088474.png)
+<img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
 *Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
-![Tarjeta de Presentación de Ejemplo](Targeta_de_presentación.png)
+<img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
 *Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
 
 #### Logotipo
-![Logotipo de Ejemplo](Logo_tacos..png)
+<img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
 *Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
 
 ---
@@ -74,7 +74,9 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 * **Tarjeta:** `Targeta_de_presentación.png`
 * **Logo:** `Logo_tacos..png`
 
-**Si después de actualizar el `README.md` las imágenes no aparecen, haz esto:**
+**Recuerda:** Si las imágenes no aparecen o el tamaño no es el deseado, puedes:
 
-1.  **Caché:** Presiona `Ctrl + Shift + R` (o `Cmd + Shift + R` en Mac) para forzar la recarga de la página y borrar la caché.
-2.  **Nombre:** Verifica que no haya un espacio extra o una mayúscula/minúscula mal escrita en el nombre del archivo en tu repositorio.
+1.  **Ajustar `width="300"`:** Cambia el número (`300`) a un valor más pequeño o más grande según tu preferencia.
+2.  **Borrar caché:** Presiona `Ctrl + Shift + R` (o `Cmd + Shift + R` en Mac) para forzar la recarga de la página.
+
+¡Ahora tus imágenes deberían verse perfectamente escaladas en tu perfil de GitHub!http://googleusercontent.com/image_generation_content/0
