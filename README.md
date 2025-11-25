@@ -35,7 +35,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 *Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
 
 #### Logotipo
-![Logotipo de Ejemplo](Logo_tacos.png)
+![Logotipo de Ejemplo](Logo_tacos..png)
 *Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
 
 ---
@@ -72,7 +72,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 * **Flyer:** `1000088474.png`
 * **Tarjeta:** `Targeta_de_presentación.png`
-* **Logo:** `Logo_tacos.png`
+* **Logo:** `Logo_tacos..png`
 
 **Si después de actualizar el `README.md` las imágenes no aparecen, haz esto:**
 
