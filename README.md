@@ -28,21 +28,27 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 #### Flyer
 <div align="center">
-  <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
+  <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
 </div>
 Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.
 
 #### Targeta de Presentación
 <div align="center">
-  <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
+  <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
 </div>
 Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.
 
 #### Logotipo
 <div align="center">
-  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
+  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
 </div>
 Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.
+
+---
+
+### 💼 Trabajos Extras
+
+Proyectos individuales y colaboraciones especiales que demuestran mi versatilidad creativa y técnica:
 
 #### Video de publicidad
 Producción de un video publicitario para apoyar la participación de una candidata del pueblo de San Pedro Tlalcuapan, destacando su mensaje, valores y compromiso comunitario mediante una presentación visual clara, dinámica y de alta calidad.
@@ -55,15 +61,13 @@ Producción de un video publicitario para apoyar la participación de una candid
 > **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 
 * **Desarrollo de proyectos de Realidad Aumentada para ferias.** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
-    * *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
-    * **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
+    * *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
+    * **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
 
 * **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
-    * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
-    * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
-      
-* **Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.** [Ver Evidencia (Drive)](URL_DRIVE_DISENO_AQUI)
-    * *Narración:* Soporte integral a emprendedores, desde la concepción de la **identidad visual** (logotipos) hasta la maquetación final de materiales promocionales, asegurando una **comunicación visual coherente y profesional**.
+    * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
+    * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
+      
 
 ---
 
@@ -81,17 +85,12 @@ Producción de un video publicitario para apoyar la participación de una candid
 ## 📥 Descargar CV Completo
 
 <div align="center">
-  [Descargar mi CV](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=sharing)
+  [![Descargar CV](https://img.shields.io/badge/Descargar_CV-PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=sharing)
 </div>
 
 ---
 
-### 📧 Contacto
 
-* **Correo:** [melendezzam4@gmail.com](mailto:melendezzam4@gmail.com)
-* **LinkedIn:** [Tu enlace a LinkedIn aquí] (Recomendado)
-* **Idioma:** Inglés básico (A2)
+### 🚀 Próximos Pasos
 
----
-
-
+Explora mis repositorios para ver la implementación técnica detrás de cada solución. ¡Mi trabajo se enfoca en la convergencia de la estrategia digital, la programación y el diseño!
