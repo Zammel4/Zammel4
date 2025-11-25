@@ -28,7 +28,7 @@
 
 > **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 > * Desarrollo de proyectos de Realidad Aumentada para ferias.
-> * Creación de experiencias de **Realidad Virtual** (Seguridad Corporal Humana, Videojuego 2D Pixel Art).
+> * Creación de experiencias de **Realidad Virtual** (Videojuedo de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).
 > * Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.
 
 ---
@@ -44,10 +44,4 @@
 
 ---
 
-### 📧 Contacto
 
-* **Correo:** [melendezzam4@gmail.com](mailto:melendezzam4@gmail.com)
-* **LinkedIn:** [Tu enlace a LinkedIn aquí] (Recomendado)
-* **Idioma:** Inglés básico (A2)
-
----
