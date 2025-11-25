@@ -26,16 +26,16 @@
 
 Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
 
-####  flyer
-![Flyer de Ejemplo](assets/targeta_de_presentación.png)
+#### Flyer
+![Flyer de Ejemplo](assets/flyer.png)
 *Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
-![Tarjeta de Presentación de Ejemplo](URL_DE_TU_IMAGEN_DE_LA_TARJETA_AQUI)
+![Tarjeta de Presentación de Ejemplo](assets/tarjeta_presentacion.png)
 *Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
 
 #### Logotipo
-![Logotipo de Ejemplo](URL_DE_TU_IMAGEN_DEL_LOGOTIPO_AQUI)
+![Logotipo de Ejemplo](assets/logotipo.png)
 *Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
 
 ---
@@ -52,11 +52,11 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 ### 🎓 Educación y Certificaciones
 
 * **Título:** Técnico Superior en **Entornos Virtuales y Negocios Digitales**
-    * *Universidad Tecnológica de Tlaxcala*
+    * *Universidad Tecnológica de Tlaxcala*
 
 * **Certificaciones:**
-    * Toma de decisiones basadas en datos: **Power BI** Santander X.
-    * CertiProf, **Scrum Foundation Professional Certificate** SFPC.
+    * Toma de decisiones basadas en datos: **Power BI** Santander X.
+    * CertiProf, **Scrum Foundation Professional Certificate** SFPC.
 
 ---
 
@@ -68,4 +68,4 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 ---
 
-
+**Solo asegúrate de que, en tu repositorio de GitHub, exista una carpeta llamada `assets` y dentro de ella estén los tres archivos:** `flyer.png`, `tarjeta_presentacion.png` y `logotipo.png`.
