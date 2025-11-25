@@ -27,7 +27,7 @@
 Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
 
 ####  flyer
-![Flyer de Ejemplo](URL_DE_TU_IMAGEN_DEL_FLYER_AQUI)
+![Flyer de Ejemplo](targeta_de_presentación.png)
 *Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
