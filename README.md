@@ -28,19 +28,19 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 #### Flyer
 <div align="center">
-  <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
+  <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
 </div>
-*Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
+*Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.*
 
 #### Targeta de Presentación
 <div align="center">
-  <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
+  <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
 </div>
 *Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
 
 #### Logotipo
 <div align="center">
-  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
+  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
 </div>
 *Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.*
 
@@ -50,13 +50,13 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 > **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 
-* **Desarrollo de proyectos de Realidad Aumentada para ferias.**
+* **Desarrollo de proyectos de Realidad Aumentada para ferias.** [Ver Evidencia (Drive)](URL_DRIVE_RA_AQUI)
     * *Narración:* Implementación de soluciones de RA utilizando software de diseño y programación para crear experiencias interactivas que **aumentaron la atracción de visitantes y el engagement** en eventos públicos.
 
-* **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).**
+* **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
     * *Narración:* Desarrollo de contenido educativo y de entretenimiento, aplicando **Unity y Blender** para crear simulaciones de RV (órganos) y videojuegos 2D con un enfoque en la **experiencia de usuario y el aprendizaje inmersivo**.
 
-* **Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.**
+* **Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.** [Ver Evidencia (Drive)](URL_DRIVE_DISENO_AQUI)
     * *Narración:* Soporte integral a emprendedores, desde la concepción de la **identidad visual** (logotipos) hasta la maquetación final de materiales promocionales, asegurando una **comunicación visual coherente y profesional**.
 
 ---
@@ -79,3 +79,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 * **Idioma:** Inglés básico (A2)
 
 ---
+
+### 🚀 Próximos Pasos
+
+Explora mis repositorios para ver la implementación técnica detrás de cada solución. ¡Mi trabajo se enfoca en la convergencia de la estrategia digital, la programación y el diseño!
