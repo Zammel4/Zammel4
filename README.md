@@ -75,12 +75,12 @@ Producción de un video publicitario para apoyar la participación de una candid
  **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano).**
   [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/1F5icl04-nX8J9Nm6LDct2vuFnTO01c2-?usp=sharing)
   
-    * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
-    * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
+  * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
+  * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
 
 * **Creación de videojuego 2D Pixel Art (Videojuego temática de terror).** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/15qub2vW7HdZ0e2IdX8vwLRxoz_UTT9f8?usp=sharing)
-    * *Narración:* Se desarrolló un **videojuego 2D de Pixel Art con temática de terror**, enfocado en ofrecer una experiencia inmersiva a través de su estética visual y narrativa.
-    * **Mi Contribución:** Fui responsable del **diseño de personajes 2D en estilo Pixel Art** desde cero, además de contribuir en la creación de los entornos y elementos visuales clave para establecer la atmósfera de terror.
+  * *Narración:* Se desarrolló un **videojuego 2D de Pixel Art con temática de terror**, enfocado en ofrecer una experiencia inmersiva a través de su estética visual y narrativa.
+  * **Mi Contribución:** Fui responsable del **diseño de personajes 2D en estilo Pixel Art** desde cero, además de contribuir en la creación de los entornos y elementos visuales clave para establecer la atmósfera de terror.
 ---
 
 ### 🎓 Educación y Certificaciones
