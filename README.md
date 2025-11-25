@@ -68,19 +68,13 @@ Producción de un video publicitario para apoyar la participación de una candid
 **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 
  **Desarrollo de proyectos de Realidad Aumentada para ferias.**
- 
  [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
-    
   *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
-  
      **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
 
  **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano).**
-
   [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/1F5icl04-nX8J9Nm6LDct2vuFnTO01c2-?usp=sharing)
-  
     * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
-    
     * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
 
 * **Creación de videojuego 2D Pixel Art (Videojuego temática de terror).** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/15qub2vW7HdZ0e2IdX8vwLRxoz_UTT9f8?usp=sharing)
