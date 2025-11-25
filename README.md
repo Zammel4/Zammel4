@@ -50,7 +50,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 > **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 > * Desarrollo de proyectos de Realidad Aumentada para ferias.
-> * Creación de experiencias de **Realidad Virtual** (Seguridad Corporal Humana, Videojuego 2D Pixel Art).
+> * Creación de experiencias de **Realidad Virtual** (Video juego de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).
 > * Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.
 
 ---
