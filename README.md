@@ -91,6 +91,4 @@ Producción de un video publicitario para apoyar la participación de una candid
 ---
 
 
-### 🚀 Próximos Pasos
 
-Explora mis repositorios para ver la implementación técnica detrás de cada solución. ¡Mi trabajo se enfoca en la convergencia de la estrategia digital, la programación y el diseño!
