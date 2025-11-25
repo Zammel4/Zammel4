@@ -64,10 +64,13 @@ Producción de un video publicitario para apoyar la participación de una candid
     * *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
     * **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
 
-* **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
+* **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
     * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
     * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
-      
+
+* **Creación de video juego 2D pixel art (Video juego tematica de terror).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
+    * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
+    * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
 
 ---
 
