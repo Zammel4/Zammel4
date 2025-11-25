@@ -75,7 +75,7 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 ## 📥 Descargar CV Completo
 
 <div align="center">
-  [![Descargar CV]([https://img.shields.io/badge/Descargar_CV-PDF-blue?style=for-the-badge&logo=googledrive)](TU_LINK_DE_DRIVE_O_REPOSITORIO_AL_PDF_AQUI](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=sharing))
+  [![Descargar CV](https://img.shields.io/badge/Descargar_CV-PDF-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=sharing)
 </div>
 
 ---
