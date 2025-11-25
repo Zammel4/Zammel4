@@ -27,15 +27,15 @@
 Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
 
 #### Flyer
-![Flyer de Ejemplo](assets/flyer.png)
+![Flyer de Ejemplo](Flyer_ejemplo.png)
 *Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
-![Tarjeta de Presentación de Ejemplo](assets/tarjeta_presentacion.png)
+![Tarjeta de Presentación de Ejemplo](Targeta_de_presentación.png)
 *Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
 
 #### Logotipo
-![Logotipo de Ejemplo](assets/logotipo.png)
+![Logotipo de Ejemplo](Logo_tacos.png)
 *Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
 
 ---
@@ -68,4 +68,6 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 ---
 
-**Solo asegúrate de que, en tu repositorio de GitHub, exista una carpeta llamada `assets` y dentro de ella estén los tres archivos:** `flyer.png`, `tarjeta_presentacion.png` y `logotipo.png`.
+### 🚀 ¿Qué sigue?
+
+Mis proyectos están enfocados en la convergencia de la estrategia digital y el diseño. ¡Explora mis repositorios para ver la implementación técnica detrás de cada solución!
