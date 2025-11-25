@@ -1,5 +1,3 @@
-## Hola, soy Zamri👋
-
 # ¡Hola! Soy Zamri Márquez Meléndez 👋
 
 ### 👩‍💻 TSU. en Tecnologías de la Información | Estratega Digital y Diseñadora Multimedia
@@ -24,11 +22,29 @@
 
 ---
 
-### 📈 Experiencia Destacada
+### 🎨 Mis Proyectos Destacados en Diseño
+
+Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
+
+####  flyer
+![Flyer de Ejemplo](URL_DE_TU_IMAGEN_DEL_FLYER_AQUI)
+*Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
+
+#### Targeta de Presentación
+![Tarjeta de Presentación de Ejemplo](URL_DE_TU_IMAGEN_DE_LA_TARJETA_AQUI)
+*Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
+
+#### Logotipo
+![Logotipo de Ejemplo](URL_DE_TU_IMAGEN_DEL_LOGOTIPO_AQUI)
+*Creación de un logotipo versátil y memorable para [breve descripción del proyecto o marca], reflejando su identidad con formas limpias y significado.*
+
+---
+
+### 📈 Experiencia Previa
 
 > **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 > * Desarrollo de proyectos de Realidad Aumentada para ferias.
-> * Creación de experiencias de **Realidad Virtual** (Videojuedo de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).
+> * Creación de experiencias de **Realidad Virtual** (Seguridad Corporal Humana, Videojuego 2D Pixel Art).
 > * Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.
 
 ---
@@ -41,6 +57,14 @@
 * **Certificaciones:**
     * Toma de decisiones basadas en datos: **Power BI** Santander X.
     * CertiProf, **Scrum Foundation Professional Certificate** SFPC.
+
+---
+
+### 📧 Contacto
+
+* **Correo:** [melendezzam4@gmail.com](mailto:melendezzam4@gmail.com)
+* **LinkedIn:** [Tu enlace a LinkedIn aquí] (Recomendado)
+* **Idioma:** Inglés básico (A2)
 
 ---
 
