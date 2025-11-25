@@ -45,9 +45,6 @@ Diseño minimalista y profesional para una tarjeta de presentación, enfocándom
 Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.
 
 #### Video de publicidad
-<div align="center">
-  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
-</div>
 Producción de un video publicitario para apoyar la participación de una candidata del pueblo de San Pedro Tlalcuapan, destacando su mensaje, valores y compromiso comunitario mediante una presentación visual clara, dinámica y de alta calidad.
 [texto del enlace](URL_de_Drive)
 
