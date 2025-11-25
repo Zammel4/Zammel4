@@ -30,19 +30,19 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 <div align="center">
   <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
 </div>
-*Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.*
+Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.
 
 #### Targeta de Presentación
 <div align="center">
   <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
 </div>
-*Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.*
+Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.
 
 #### Logotipo
 <div align="center">
   <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
 </div>
-*Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.*
+Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.
 
 ---
 
