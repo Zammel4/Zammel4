@@ -102,7 +102,7 @@ Producción de un video publicitario para apoyar la participación de una candid
 ## 📥 Descargar CV Completo
 
 <div align="center">
-  [Descargar mi CV](https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=drive_link)
+  Descargar mi CV(https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=drive_link)
 </div>
 
 ---
