@@ -27,7 +27,7 @@
 Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
 
 #### Flyer
-![Flyer de Ejemplo](Flyer..png)
+![Flyer de Ejemplo](1000088474.png)
 *Un flyer diseñado para [breve descripción del propósito o cliente]. Mi objetivo fue captar la atención con una composición dinámica y una paleta de colores vibrante.*
 
 #### Targeta de Presentación
@@ -68,6 +68,13 @@ Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación
 
 ---
 
-### 🚀 ¿Qué sigue?
+### ✅ Verificación de Rutas:
 
-Mis proyectos están enfocados en la convergencia de la estrategia digital y el diseño. ¡Explora mis repositorios para ver la implementación técnica detrás de cada solución!
+* **Flyer:** `1000088474.png`
+* **Tarjeta:** `Targeta_de_presentación.png`
+* **Logo:** `Logo_tacos.png`
+
+**Si después de actualizar el `README.md` las imágenes no aparecen, haz esto:**
+
+1.  **Caché:** Presiona `Ctrl + Shift + R` (o `Cmd + Shift + R` en Mac) para forzar la recarga de la página y borrar la caché.
+2.  **Nombre:** Verifica que no haya un espacio extra o una mayúscula/minúscula mal escrita en el nombre del archivo en tu repositorio.
