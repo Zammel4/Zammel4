@@ -46,7 +46,7 @@ Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza co
 
 #### Video de publicidad
 Producción de un video publicitario para apoyar la participación de una candidata del pueblo de San Pedro Tlalcuapan, destacando su mensaje, valores y compromiso comunitario mediante una presentación visual clara, dinámica y de alta calidad.
-[Video de publicitario](https://drive.google.com/file/d/1bUjf8d56WI4bLkxHb2pucDJQw03tZCn1/view?usp=sharing)
+[Video publicitario](https://drive.google.com/file/d/1bUjf8d56WI4bLkxHb2pucDJQw03tZCn1/view?usp=sharing)
 
 ---
 
@@ -54,12 +54,14 @@ Producción de un video publicitario para apoyar la participación de una candid
 
 > **La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
 
-* **Desarrollo de proyectos de Realidad Aumentada para ferias.** [Ver Evidencia (Drive)](URL_DRIVE_RA_AQUI)
-    * *Narración:* Implementación de soluciones de RA utilizando software de diseño y programación para crear experiencias interactivas que **aumentaron la atracción de visitantes y el engagement** en eventos públicos.
+* **Desarrollo de proyectos de Realidad Aumentada para ferias.** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
+    * *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
+    * **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
 
 * **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano, Videojuego 2D Pixel Art).** [Ver Evidencia (Drive)](URL_DRIVE_RV_AQUI)
-    * *Narración:* Desarrollo de contenido educativo y de entretenimiento, aplicando **Unity y Blender** para crear simulaciones de RV (órganos) y videojuegos 2D con un enfoque en la **experiencia de usuario y el aprendizaje inmersivo**.
-
+    * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
+    * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
+      
 * **Diseño y maquetación de material publicitario y logotipos para emprendimientos locales.** [Ver Evidencia (Drive)](URL_DRIVE_DISENO_AQUI)
     * *Narración:* Soporte integral a emprendedores, desde la concepción de la **identidad visual** (logotipos) hasta la maquetación final de materiales promocionales, asegurando una **comunicación visual coherente y profesional**.
 
