@@ -70,7 +70,9 @@
 <img src="diseño 32.jpg" alt="Diseño" width="280">
 <img src="diseño 6.jpg" alt="Diseño 2" width="280">
 <img src="Día del niño.png" alt="Diseño 3" width="280">
+
 *Diseño para campaña de publicidad en HMH, enfocado en maximizar visibilidad, conversión y presencia de marca en redes sociales.*
+
 ---
 
 #### Tarjeta de Presentación
