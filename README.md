@@ -119,7 +119,10 @@
 
 ### 🎓 Educación y Certificaciones
 
-- 🎓 **Ingeniería / TSU en Entornos Virtuales y Negocios Digitales**
+- 🎓 **Ingeniería en Entornos Virtuales y Negocios Digitales** *(Egresada / En trámite de titulación)*
+  > *Universidad Tecnológica de Tlaxcala*
+
+- 🎓 **Técnico Superior Universitario en Entornos Virtuales y Negocios Digitales** *(Titulada)*
   > *Universidad Tecnológica de Tlaxcala*
 
 - 📜 **Certificaciones:**
