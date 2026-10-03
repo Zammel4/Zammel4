@@ -65,7 +65,7 @@
 ### 🖼️ Muestra de Trabajo Gráfico
 
 <div align="center">
-
+---
 #### Campaña publicitaria en HMH
 <img src="diseño 32.jpg" alt="Diseño" width="280">
 <img src="diseño 6.jpg" alt="Diseño 2" width="280">
