@@ -66,7 +66,7 @@
 
 <div align="center">
 
-#### Flyer Publicitario
+#### Campaña publicitaria en HMH
 <img src="diseño 32.jpg" alt="Diseño" width="280">
 <img src="diseño 6.jpg" alt="Diseño 2" width="280">
 <img src="Día del niño.png" alt="Diseño 3" width="280">
