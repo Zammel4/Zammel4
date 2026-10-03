@@ -62,6 +62,32 @@
 
 ---
 
+#### 🐝 **Grupo Industrial HMH**
+
+* **Dossier corporativo:**
+  * 📁 [Ver Evidencia en Drive]([https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing](https://drive.google.com/drive/folders/1dR0hmd_9RePOzYsU3a1WIimdAO58xDw5?usp=sharing))
+ *Descripción:* Diseñé y estructuré el dossier corporativo e industrial de HMH, organizándolo en secciones clave:
+    1. Perfil de la empresa
+    2. Capacidades operativas y servicios
+    3. Seguridad y cumplimientos
+    4. Industrias que atienden
+    5. Contacto y logística
+  * **Mi Contribución:** Maquetación editorial completa, diseño conceptual del documento, incorporación de fotografía industrial de maquinaria en taller, selección tipográfica y jerarquización visual de la información institucional.
+
+* **Manual corporativo:**
+  * 📁 [Ver Evidencia en Drive]([https://drive.google.com/drive/folders/1F5icl04-nX8J9Nm6LDct2vuFnTO01c2-?usp=sharing](https://drive.google.com/drive/folders/1hCb0vUMn-qS3EQ5OWy2XRRHcKMED__tt?usp=sharing))
+  *Descripción:* Desarrollo del manual de identidad de HMH, abarcando filosofía empresarial, normatividad del logotipo, paleta cromática, tipografía, papelería, material digital y guía visual de la mascota corporativa.
+  * **Mi Contribución:** Maquetación editorial, estandarización de la marca, reglas de uso correcto e incorrecto e integración de aplicaciones digitales y de papelería.
+
+* **Videos publicitarios:**
+  * 📁 [Ver Evidencia en Drive](https://drive.google.com/drive/folders/1t-mJsCjGJ6eZs3Cfyt5Xjc8rVCgyXyNl?usp=sharing)
+  **Mi Contribución:** 
+    * Grabación y apoyo técnico en set enfocado en la maquinaria industrial.
+    * Generación, edición y montaje de video asistido por herramientas de **Inteligencia Artificial Generativa**.
+    * Edición y postproducción en **Adobe Premiere Pro** y **Adobe Audition**.
+    * Formateo y optimización de clips enfocados en conversión y dinamismo para campañas en **Facebook Ads / Meta Ads**.
+---
+
 ### 🖼️ Muestra de Trabajo Gráfico
 
 <div align="center">
