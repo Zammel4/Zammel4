@@ -1,106 +1,112 @@
 # ¡Hola! Soy Zamri Márquez Meléndez 👋
 
-### 👩‍💻 TSU. en Tecnologías de la Información | Estratega Digital y Diseñadora Multimedia
+### 👩‍💻 TSU e Ingeniera en Entornos Virtuales y Negocios Digitales | Diseñadora Multimedia, Animadora y Estratega Digital
 
 ---
 
 ### 🌟 Perfil Profesional
 
-**TSU en Negocios Digitales.** Mi misión es clara: Impulsar el crecimiento empresarial de forma estratégica y visual. Combino la visión de negocio con la creatividad de alto impacto para transformar la presencia online.
+**Ingeniera en Entornos Virtuales y Negocios Digitales.** Mi misión es impulsar el crecimiento empresarial integrando desarrollo técnico, producción audiovisual, animación, branding y marketing digital. Combino la visión estratégica de negocios con la creatividad de alto impacto para transformar la presencia online de marcas y proyectos.
 
-**Mi Fórmula:** Estrategia, Diseño de Alto Impacto y Resultados Sólidos.
+**Mi Fórmula:** Estrategia, Branding/Diseño de Alto Impacto e Innovación con IA.
 
 ---
 
 ### 🛠️ Habilidades Técnicas y Creativas
 
-| Categoría | Herramientas y Lenguajes | Énfasis en la Creatividad |
+| Categoría | Herramientas y Tecnologías | Énfasis |
 | :--- | :--- | :--- |
-| **Diseño y Multimedia** | **Unity**, **Blender** (Animación 2D y 3D), **Paquetería Adobe** (Photoshop, Illustrator, Premiere, Audition) | Manejo experto de **Color** e **Imaginación**. |
-| **Desarrollo Web y Datos** | PHP (desarrollo web), **Laravel**, **Python**, R Studio (Estadística y ML), Google Colab | Enfoque en optimización de procesos y UX/UI. |
-| **Gestión** | Trello (organización y gestión de proyectos). | **Resiliencia** y **Trabajo en equipo**. |
+| **Branding & Diseño** | **Adobe Photoshop**, **Adobe Illustrator**, **Figma**, Manuales de Identidad, Paletas de Color, Spine 2D, Pixel Art | Identidad corporativa, branding institucional, diseño web y gráfica publicitaria. |
+| **Producción & Animación** | **Blender** (3D), **Adobe Premiere Pro**, **Adobe Audition**, **IA Generativa** (Video y Audio), Grabación en set | Animación 2D/3D, postproducción audiovisual y producción para ventiladores holográficos. |
+| **Estrategia & Web** | Rediseño Web (UX/UI), **Benchmarking**, Análisis de Competencia, **Meta Ads** (Facebook Ads), Atención telefónica/directa | Estrategia digital de contenido, gestión de clientes y optimización de conversión. |
+| **Desarrollo, XR y Datos** | **Unity** (AR/VR), PHP, **Laravel**, **Python**, R Studio, Google Colab, **GitHub**, HTML/CSS/JS | Creación de experiencias inmersivas e interactividad digital. |
 
 ---
 
-### 🎨 Mis Proyectos Destacados en Diseño
+### 📈 Experiencia Profesional & Estadías
 
-Aquí te presento algunos ejemplos de mi trabajo creativo, donde mi imaginación y manejo del color cobran vida:
+#### 🏢 **HMH — Practicante / Estadías Profesionales**
+* **Branding e Identidad Corporativa:** Elaboración completa del **Manual de Identidad Corporativa de la Marca** y del **Manual de Identidad de la Mascota** de la empresa.
+* **Rediseño Web (UI/UX):** Actualización y modernización del sitio web oficial de la empresa, respetando y optimizando la paleta de colores e identidad de la marca.
+* **Benchmarking & Análisis Estratégico:** Estudio comparativo de competidores con productos afines para la planificación y optimización de campañas publicitarias en redes sociales.
+* **Publicidad Digital (Facebook & Meta Ads):** Creación, gestión y monitoreo de contenidos publicitarios enfocados en visibilidad y conversión.
+* **Producción Audiovisual en Set & IA:** Apoyo técnico en grabaciones en set sobre la maquinaria industrial de la empresa y generación de contenidos en video apoyados con Inteligencia Artificial.
+* **Atención y Gestión de Clientes:** Soporte directo y llamadas telefónicas a clientes para resolver inquietudes y dar seguimiento comercial.
 
-#### Flyer
+---
+
+### 🎨 Proyectos Destacados y Experiencia Previa
+
+#### 🚀 **Proyectos Freelance & Trabajos Independientes**
+* **Publicidad Holográfica 3D:** Creación y edición de videos optimizados para proyectores/ventiladores holográficos 3D, integrando **Adobe Premiere Pro** e **Inteligencia Artificial Generativa**.
+* **Video Publicitario Político/Comunitario:** Producción audiovisual para apoyar la participación de una candidata en San Pedro Tlalcuapan.
+  * 🎬 [Ver Video Publicitario en Google Drive](https://drive.google.com/file/d/1bUjf8d56WI4bLkxHb2pucDJQw03tZCn1/view?usp=sharing)
+
+---
+
+#### 🐝 **La Colmena – Centro de Tecnologías Creativas**
+
+* **Desarrollo de Realidad Aumentada (Feria Geek):**
+  * 📁 [Ver Evidencia en Drive](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
+  * *Descripción:* Aplicación de RA para guiar a los visitantes a través de las estaciones de la feria.
+  * **Mi Contribución:** Creación integral del personaje **"Babymixtle"** (concepto, modelado 3D y diseño), animación, doblaje de voz en **Adobe Audition** y apoyo en la integración de entornos 3D en **Unity**.
+
+* **Videojuego Educativo en Realidad Virtual (Órganos del Cuerpo Humano):**
+  * 📁 [Ver Evidencia en Drive](https://drive.google.com/drive/folders/1F5icl04-nX8J9Nm6LDct2vuFnTO01c2-?usp=sharing)
+  * *Descripción:* Videojuego en VR enfocado en la educación infantil sobre anatomía humana.
+  * **Mi Contribución:** Modelado 3D de órganos, creación completa del personaje **"ChibiAi"** (diseño, modelado y animaciones en Blender), diseño del entorno del consultorio y carteles publicitarios.
+
+* **Videojuego 2D Pixel Art (Temática Terror):**
+  * 📁 [Ver Evidencia en Drive](https://drive.google.com/drive/folders/15qub2vW7HdZ0e2IdX8vwLRxoz_UTT9f8?usp=sharing)
+  * **Mi Contribución:** Diseño de personajes 2D en estilo Pixel Art desde cero, además de colaboración en el desarrollo de entornos y atmósfera inmersiva.
+
+---
+
+### 🖼️ Muestra de Trabajo Gráfico
+
 <div align="center">
-  <img src="1000088474.png" alt="Flyer de Ejemplo" width="300">
-</div>
-Un flyer diseñado para la conversión y visibilidad mediante el manejo dinámico de color y la priorización de la información de contacto para generar presupuestos sin compromiso.
 
-#### Targeta de Presentación
+#### Flyer Publicitario
+<img src="1000088474.png" alt="Flyer de Ejemplo" width="280">
 
-<div align="center">
- 
-  <img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación de Ejemplo" width="300">
-  
-</div>
-Diseño minimalista y profesional para una tarjeta de presentación, enfocándome en la legibilidad y la representación de la marca.
+*Diseñado para la conversión y visibilidad mediante el manejo dinámico de color y priorización de la información de contacto.*
+
+---
+
+#### Tarjeta de Presentación
+<img src="Targeta_de_presentación.png" alt="Tarjeta de Presentación" width="280">
+
+*Diseño minimalista y profesional con enfoque en legibilidad y representación de marca.*
+
+---
 
 #### Logotipo
+<img src="Logo_tacos..png" alt="Logotipo Taquería" width="280">
 
-<div align="center">
- 
-  <img src="Logo_tacos..png" alt="Logotipo de Ejemplo" width="300">
-  
+*Identidad de marca con colores vibrantes y alta reconocibilidad para el sector alimenticio.*
+
 </div>
 
-Identidad de marca distintiva para taquería. Diseño de símbolo que utiliza colores vibrantes para ser altamente reconocible y atractivo en el sector alimenticio.
-
----
-
-### 💼 Trabajos Extras
-
-Proyectos individuales y colaboraciones especiales que demuestran mi versatilidad creativa y técnica:
-
-#### Video de publicidad
-Producción de un video publicitario para apoyar la participación de una candidata del pueblo de San Pedro Tlalcuapan, destacando su mensaje, valores y compromiso comunitario mediante una presentación visual clara, dinámica y de alta calidad.
-[Video publicitario](https://drive.google.com/file/d/1bUjf8d56WI4bLkxHb2pucDJQw03tZCn1/view?usp=sharing)
-
----
-
-### 📈 Experiencia Previa
-
-**La Colmena – Centro de Tecnologías Creativas (Trabajo en equipo)**
-
- **Desarrollo de proyectos de Realidad Aumentada para ferias.**
- [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/11EKxWs2h-yYpakegkE7puvkA7t9RDN42?usp=sharing)
-  * *Narración:* Se realizó una aplicación de Realidad Aumentada para el recorrido de la Feria Geek, cuyo objetivo fue guiar a los visitantes, permitiendo visualizar la temática y actividades de cada estación.
-     **Mi Contribución:** Fui responsable de la creación integral del personaje **"Babymixtle"**, desde el concepto, **modelado 3D** y diseño. Además, colaboré en las **animaciones**, el **doblaje de voz** del personaje, y parte del diseño del entorno 3D dentro de **Unity**.
-
- **Creación de experiencias de Realidad Virtual (Video juego de realidad aumentada sobre los órganos del cuerpo humano).**
-  [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/1F5icl04-nX8J9Nm6LDct2vuFnTO01c2-?usp=sharing)
-  
-  * *Narración:* Se desarrolló un videojuego de **Realidad Virtual** enfocado en la **educación infantil** para facilitar el aprendizaje sobre los órganos del cuerpo humano.
-  * **Mi Contribución:** Realicé **modelados 3D** de algunas partes del cuerpo, creé el personaje **"ChibiAi"** desde cero (diseño, modelado y animaciones), diseñé parte del **entorno del consultorio** y creé **carteles de publicidad** para este trabajo.
-
-* **Creación de videojuego 2D Pixel Art (Videojuego temática de terror).** [Ver Evidencia (Drive)](https://drive.google.com/drive/folders/15qub2vW7HdZ0e2IdX8vwLRxoz_UTT9f8?usp=sharing)
-  * *Narración:* Se desarrolló un **videojuego 2D de Pixel Art con temática de terror**, enfocado en ofrecer una experiencia inmersiva a través de su estética visual y narrativa.
-  * **Mi Contribución:** Fui responsable del **diseño de personajes 2D en estilo Pixel Art** desde cero, además de contribuir en la creación de los entornos y elementos visuales clave para establecer la atmósfera de terror.
 ---
 
 ### 🎓 Educación y Certificaciones
 
-* **Título:** Técnico Superior en **Entornos Virtuales y Negocios Digitales**
-> * Universidad Tecnológica de Tlaxcala
+- 🎓 **Ingeniería / TSU en Entornos Virtuales y Negocios Digitales**
+  > *Universidad Tecnológica de Tlaxcala*
 
-* **Certificaciones:**
-> * Toma de decisiones basadas en datos: **Power BI** Santander X.
-> * CertiProf, **Scrum Foundation Professional Certificate** SFPC.
+- 📜 **Certificaciones:**
+  > * **Scrum Foundation Professional Certificate (SFPC)** — *CertiProf*
+  > * **Toma de decisiones basadas en datos: Power BI** — *Santander X*
 
 ---
 
-## 📥 Descargar CV Completo
+### 📥 Descargar CV Completo
 
 <div align="center">
-  Descargar mi CV(https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=drive_link)
+  📄 <a href="https://drive.google.com/file/d/1p31-w63VX_g8T8gPlZVyhCSNeNBYXzA1/view?usp=drive_link" target="_blank"><b>Haz clic aquí para descargar mi CV en PDF</b></a>
 </div>
 
 ---
 
-
-
+📬 **Contacto & Redes**
+* 🌐 [GitHub Profile](https://github.com/Zammel4)
